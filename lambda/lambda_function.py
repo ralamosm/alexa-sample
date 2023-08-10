@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# good
 # IMPORTANT: Please note that this template uses Display Directives,
 # Display Interface for your skill should be enabled through the Amazon
 # developer console
